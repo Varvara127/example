@@ -12,6 +12,7 @@
 * Address:  Lobanka str., Minsk Belarus 220019
 * Phone: +375(29)1661612
 * E-mail: justdoit17127@gmail.com
+* Discord: Varvara127 #3735
 
 
 ## EDUCATION
