@@ -31,6 +31,13 @@
 * June 2013 – September 2013 – sales person at Eagle Wings Sportswear, Wisconsin Dells, Wisconsin, USA (Work and Travel program, J1 student)
 * September 2012 – 2013 Crown Plaza Hotel, Order-taker/call-operator (Food and beverage department, in-room dining), Minsk, Belarus
 
+## LANGUAGES
+
+* English – fluent 
+* Spanish – A2 level
+* Russian – native language
+
+
 
 
 
