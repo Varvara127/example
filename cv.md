@@ -31,11 +31,13 @@
 * June 2013 – September 2013 – sales person at Eagle Wings Sportswear, Wisconsin Dells, Wisconsin, USA (Work and Travel program, J1 student)
 * September 2012 – 2013 Crown Plaza Hotel, Order-taker/call-operator (Food and beverage department, in-room dining), Minsk, Belarus
 
+
 ## LANGUAGES
 
 * English – fluent 
 * Spanish – A2 level
 * Russian – native language
+
 
 ## CODE EXAMPLE
 
@@ -44,6 +46,21 @@ function multiply(a,b){
     return a*b
 }
 ```
+
+
+## OTHER SKILLS & OCCUPATIONS
+
+* March - June 2022 - Web design courses (IT-academy)
+* February - March 2022 - Figma courses (IT-academy)
+* May 2017 - Travelled to international trade shows to meet potential and existing clients, promote the company’s services and negotiate the conditions of cooperation (Transport logistic exhibition in Munich 2017)
+
+
+## HOBBIES AND INTERESTS
+Among my interests I can name choreography, dancing, reading, table
+tennis, playing the piano. I love travelling, meeting new people, learning about different cultures.
+
+
+
 
 
 
