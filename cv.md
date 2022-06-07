@@ -1,4 +1,4 @@
-# Varvara Yakimuk
+# **Varvara Yakimuk**
 
 * Date of birth: June 12th, 1992
 * Age: 29
@@ -37,6 +37,13 @@
 * Spanish – A2 level
 * Russian – native language
 
+## CODE EXAMPLE
+
+```
+function multiply(a,b){
+    return a*b
+}
+```
 
 
 
