@@ -17,7 +17,7 @@
 
 ## EDUCATION
 
-* 2009 – 2014 Belarusian State Economic University (faculty of tourism, restaurant and hospitality management).
+* 2009 – 2014 Belarusian State Economic University (faculty of tourism, restaurant and hospitality management)
 * 1998-2009 – School № 212, Minsk, Belarus 
 * 1998-2007 – Music School № 12, Minsk, Belarus
 
@@ -25,7 +25,7 @@
 ## WORK EXPERIENCE
 
 * December 2020 - September 2021 - Qatar Airways (customer service: reservation specialist)
-* October 2019- December 2020 -  Qatar Airways (flight attendant),
+* October 2019- December 2020 -  Qatar Airways (flight attendant)
 * August 2015 – April 2019 - Autopromsnab-spedition LLC (transport logistic), account manager(international transport specialist), International Transport Specialist, Minsk region, Belarus
 * August 2014 – June 2015 – Bon Hotel, receptionist, reservation specialist, Minsk, Belarus
 * June 2013 – September 2013 – sales person at Eagle Wings Sportswear, Wisconsin Dells, Wisconsin, USA (Work and Travel program, J1 student)
