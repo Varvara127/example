@@ -52,8 +52,7 @@ function multiply(a,b){
 
 * March - June 2022 - Web design courses (IT-academy)
 * February - March 2022 - Figma courses (IT-academy)
-* May 2017 - Travelled to international trade shows to meet potential and existing clients, promote the company’s services and negotiate the conditions of cooperation (Transport logistic exhibition in Munich 2017)
-
+* 
 
 ## HOBBIES AND INTERESTS
 Among my interests I can name choreography, dancing, reading, table
